@@ -4718,14 +4718,16 @@ blockquote.quote-side:before,
     background-color: #010101;
 }
 
-/* Color Darker: $color-darker */
+/* Color Darker: $color-darker
+背景一號 */
 .post-content,
 .text-muted {
     color: #757575;
 }
 
 /* Color Dark: $color-dark */
-/* Color Light: $color-light */
+/* Color Light: $color-ligh 
+    線條顏色 */
 hr,
 blockquote,
 .brd-btm,
@@ -4738,24 +4740,27 @@ blockquote,
 .ace-paper,
 .ace-paper-stock:before,
 .ace-paper-stock:after {
-    border-color: #e6e6e6;
+    border-color: #000;
 }
 
 .post-line {
-    color: #e6e6e6;
+    color: #000;
 }
 
-/* Color Lighter: $color-lighter */
+/* 
+背景顏色設計
+Color Lighter: $color-lighter */
 body,
 .form-item {
-    background-color: #f3f3f3;
+    background-color: #f6e000;
 }
 
-/* Color Lightest: $color-lightest */
+/* Color Lightest: $color-lightest 
+字體顏色*/
 .text-dropcup-sq {
-    color: #fff;
+    color: #000;
 }
-
+/*葉面顏色*/
 #ace-content,
 .ace-paper,
 .ace-head-inner,
@@ -5424,7 +5429,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .ace-card-inner {
     padding-top: 30px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 .ace-card-footer {
