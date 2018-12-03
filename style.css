@@ -5033,14 +5033,14 @@ h1, h2, h3, h4, h5, h6 {
     z-index: -1;
 }
 #ace-bg-shape-3{
-	    top: 0;
+	top: 0;
     position: fixed;
     z-index: -1;
 }
 
 #ace-bg-shape-4{
-	    top: 0;
-    position: fixed;
+	position:fixed;
+    top: -633;
     z-index: -1;
 }
 
@@ -5057,7 +5057,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #ace-bg-shape-4 {
-    left: 0;
+    right: 0;
+
 }
 
 /**
