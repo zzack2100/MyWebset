@@ -688,7 +688,7 @@
                 {"visibility": "off"}
             ]},
             {"featureType": "water", "stylers": [
-                {"color": "#a0d3d3"}
+                {"color": "#000"}
             ]},
             {"featureType": "poi.park", "stylers": [
                 {"color": "#91b65d"}

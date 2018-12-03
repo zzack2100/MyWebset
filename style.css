@@ -2008,10 +2008,10 @@ img.aligncenter {
 .editor figure {
     margin: 44px 0;
 }
-
+/*Download 按鈕設計*/
 .btn {
     font-family: inherit;
-    color: #fff;
+    color: #000;
     font-size: 15px;
     font-weight: 700;
     line-height: 1.2;
@@ -2019,7 +2019,7 @@ img.aligncenter {
     text-decoration: none;
     text-align: center;
     white-space: nowrap;
-    background: #000;
+    background: #ff8d8d;
     vertical-align: middle;
     padding: 8px 25px;
     display: inline-block;
@@ -2050,7 +2050,7 @@ img.aligncenter {
 
 .btn-primary {
     color: #010101;
-    background-color: #c0e3e7;
+    background-color: #ff8d8d;
 }
 
 .btn-lg {
@@ -2119,7 +2119,7 @@ img.aligncenter {
 }
 
 .highlighted-text.primary-color {
-    background: #c0e3e7;
+    background: #ff8d8d;
 }
 
 .tooltip {
@@ -2135,7 +2135,7 @@ img.aligncenter {
     border-radius: 4px;
     white-space: nowrap;
     text-align: center;
-    color: #000;
+    color: #ff8d8d;
     opacity: 0;
     left: 0;
     bottom: 125%;
@@ -2217,7 +2217,7 @@ img.aligncenter {
 
 .tabs-menu li.active,
 .tabs-menu li.active a {
-    background-color: #c0e3e7;
+    background-color: #000;
     border-radius: 35px;
 }
 
@@ -2355,7 +2355,7 @@ img.aligncenter {
 .accordion-header:hover,
 .togglebox li.active .togglebox-header,
 .accordion li.active .accordion-header {
-    background-color: #c0e3e7;
+    background-color: #000;
 }
 
 /**
@@ -2509,9 +2509,9 @@ img.aligncenter {
     border: 1px solid #c0e3e7;
     vertical-align: middle;
 }
-
+/*顏色填滿(圈圈)*/
 .progress-bullets .bullet.fill {
-    background-color: #c0e3e7;
+    background-color: #ff8d8d;
 }
 
 .progress-bullets .progress-text {
@@ -2654,7 +2654,7 @@ img.aligncenter {
 }
 
 .widget ul li, .widget ol li {
-    border-bottom: 1px solid #e5e5e5;
+    border-bottom: 1px solid #000000;
 }
 
 .widget-title {
@@ -4649,6 +4649,7 @@ yx-axis
 
 /**
  * Theme Color Scheme
+ 這裡是小卡顏色配至
  */
 /* Color Primary: $color-primary */
 .text-primary,
@@ -4668,15 +4669,15 @@ mark,
 
 .brd-primary,
 #ace-nav-sm li.active a {
-    border-color: #c0e3e7;
+    border-color: #000;
 }
 
 ::-moz-selection {
-    background-color: #c0e3e7;
+    background-color: #000;
 }
 
 ::selection {
-    background-color: #c0e3e7;
+    background-color: #000;
 }
 
 /* Color Darkest: $color-darkest */
@@ -4740,11 +4741,11 @@ blockquote,
 .ace-paper,
 .ace-paper-stock:before,
 .ace-paper-stock:after {
-    border-color: #000;
+    border-color: #000000;
 }
 
 .post-line {
-    color: #000;
+    color: #ffa6a6;
 }
 
 /* 
