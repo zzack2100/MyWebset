@@ -5040,7 +5040,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #ace-bg-shape-4{
 	position:fixed;
-    top: -633;
+    top: 450px;
     z-index: -1;
 }
 
@@ -5057,7 +5057,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #ace-bg-shape-4 {
-    right: 0;
+    right: 600px;
 
 }
 
