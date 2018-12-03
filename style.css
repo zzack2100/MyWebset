@@ -2135,7 +2135,7 @@ img.aligncenter {
     border-radius: 4px;
     white-space: nowrap;
     text-align: center;
-    color: #ff8d8d;
+    color: #f86ee6;
     opacity: 0;
     left: 0;
     bottom: 125%;
@@ -2511,7 +2511,7 @@ img.aligncenter {
 }
 /*顏色填滿(圈圈)*/
 .progress-bullets .bullet.fill {
-    background-color: #ff8d8d;
+    background-color: #f86ee6;
 }
 
 .progress-bullets .progress-text {
