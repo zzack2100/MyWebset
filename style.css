@@ -5026,8 +5026,20 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Shapes */
 #ace-bg-shape-1,
-#ace-bg-shape-2 {
+#ace-bg-shape-2
+/*#ace-bg-shape-3*/ {
     top: 0;
+    position: fixed;
+    z-index: -1;
+}
+#ace-bg-shape-3{
+	    top: 0;
+    position: fixed;
+    z-index: -1;
+}
+
+#ace-bg-shape-4{
+	    top: 0;
     position: fixed;
     z-index: -1;
 }
@@ -5038,6 +5050,14 @@ h1, h2, h3, h4, h5, h6 {
 
 #ace-bg-shape-2 {
     right: 0;
+}
+
+#ace-bg-shape-3 {
+    left: 0;
+}
+
+#ace-bg-shape-4 {
+    left: 0;
 }
 
 /**
