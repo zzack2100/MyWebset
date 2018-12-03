@@ -2011,7 +2011,7 @@ img.aligncenter {
 /*Download 按鈕設計*/
 .btn {
     font-family: inherit;
-    color: #000;
+    color: #fff;
     font-size: 15px;
     font-weight: 700;
     line-height: 1.2;
@@ -2019,7 +2019,7 @@ img.aligncenter {
     text-decoration: none;
     text-align: center;
     white-space: nowrap;
-    background: #ff8d8d;
+    background: #bac5e5;
     vertical-align: middle;
     padding: 8px 25px;
     display: inline-block;

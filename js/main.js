@@ -613,7 +613,7 @@
                 {"visibility": "off"}
             ]},
             {"featureType": "landscape.natural", "elementType": "geometry.fill", "stylers": [
-                {"color": "#f5f5f2"},
+                {"color": "#bac5e5"},
                 {"visibility": "on"}
             ]},
             {"featureType": "administrative", "stylers": [
@@ -626,7 +626,7 @@
                 {"visibility": "off"}
             ]},
             {"featureType": "landscape.man_made", "elementType": "geometry.fill", "stylers": [
-                {"color": "#ffffff"},
+                {"color": "#bac5e5"},
                 {"visibility": "on"}
             ]},
             {"featureType": "poi.business", "stylers": [
@@ -645,25 +645,25 @@
                 {"visibility": "off"}
             ]},
             {"featureType": "road.highway", "elementType": "geometry", "stylers": [
-                {"color": "#ffffff"},
+                {"color": "#bac5e5"},
                 {"visibility": "simplified"}
             ]},
             {"featureType": "road.arterial", "stylers": [
                 {"visibility": "simplified"},
-                {"color": "#ffffff"}
+                {"color": "#bac5e5"}
             ]},
             {"featureType": "road.highway", "elementType": "labels.icon", "stylers": [
-                {"color": "#ffffff"},
+                {"color": "#bac5e5"},
                 {"visibility": "off"}
             ]},
             {"featureType": "road.highway", "elementType": "labels.icon", "stylers": [
                 {"visibility": "off"}
             ]},
             {"featureType": "road.arterial", "stylers": [
-                {"color": "#ffffff"}
+                {"color": "#bac5e5"}
             ]},
             {"featureType": "road.local", "stylers": [
-                {"color": "#ffffff"}
+                {"color": "#bac5e5"}
             ]},
             {"featureType": "poi.park", "elementType": "labels.icon", "stylers": [
                 {"visibility": "off"}
@@ -672,26 +672,26 @@
                 {"visibility": "off"}
             ]},
             {"featureType": "water", "stylers": [
-                {"color": "#71c8d4"}
+                {"color": "#bac5e5"}
             ]},
             {"featureType": "landscape", "stylers": [
                 {"color": "#e5e8e7"}
             ]},
             {"featureType": "poi.park", "stylers": [
-                {"color": "#8ba129"}
+                {"color": "#bac5e5"}
             ]},
             {"featureType": "road", "stylers": [
-                {"color": "#ffffff"}
+                {"color": "#bac5e5"}
             ]},
             {"featureType": "poi.sports_complex", "elementType": "geometry", "stylers": [
-                {"color": "#c7c7c7"},
+                {"color": "#bac5e5"},
                 {"visibility": "off"}
             ]},
             {"featureType": "water", "stylers": [
-                {"color": "#000"}
+                {"color": "#bac5e5"}
             ]},
             {"featureType": "poi.park", "stylers": [
-                {"color": "#91b65d"}
+                {"color": "#bac5e5"}
             ]},
             {"featureType": "poi.park", "stylers": [
                 {"gamma": 1.51}
