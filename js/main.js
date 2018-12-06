@@ -409,7 +409,7 @@ $button.addEventListener('click', function() {
     }
 
     /* Init Header */
-    function ace_header_init(head, col1, col2, col3) {
+   function ace_header_init(head, col1, col2, col3) {
         var col1_w = col1.find('#ace-logo').width() + 15;
         var col3_w = col3.find('#ace-sidebar-btn').width() + 15;
 
