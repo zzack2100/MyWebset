@@ -4863,7 +4863,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .ace-logo {
     font-family: 'Pacifico', cursive;
-	  color:#999;
+	color:#999;
 }
 
 /**
@@ -5065,6 +5065,7 @@ h1, h2, h3, h4, h5, h6 {
     white-space: nowrap;
     text-decoration: none;
     display: inline-block;
+	  color:#999;
 }
 
 .ace-logo img, .ace-logo svg, .ace-logo span {
